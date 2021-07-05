@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+    
+  
+    
+  
+    
+  .centre-content-h1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: normal;
+  }
+  .price {
+    font-size: 60px;
+    margin-left: 5px;
+    bottom: 15px;
+    position: relative;
+  }
+    
+  .pay-now-btn {
+    cursor: pointer;
+    color: white;
+    height: 70px;
+    width: 150px;
+    border: none;
+    margin: 5px 30px;
+    background-color:white;
+    position: relative;
+  }
+  .card-details {
+    background: white;
+    color:black;
+    margin: 10px 30px;
+    padding: 10px;
+    /* border-bottom-left-radius: 80px; */
+  }
+    
+  .card-details p {
+    font-size: 15px;
+  }
+    
+  .card-details label {
+    font-size: 15px;
+    line-height: 35px;
+  }
+    
+  .submit-now-btn {
+    cursor: pointer;
+    color: #fff;
+    height: 30px;
+    width: 100px;
+    border: none;
+    margin: 5px 30px;
+    background-color: rgb(71, 177, 61);
+  }
+  .container {
+   
+    top: 50%;
+    left: 50%;
+  }
+  
