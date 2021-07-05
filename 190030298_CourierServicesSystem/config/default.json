@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://shikara:Pammu2002@@cluster0.fj3xu.mongodb.net/project?retryWrites=true&w=majority",
+    "secretOrKey": "secret"
+}
